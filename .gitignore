@@ -1,6 +1,6 @@
 # ALL .zip gile
 *.zip
-
+.DS_Store
 # Logs
 logs
 *.log
